@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://https://nesgentdesign.github.io/Static/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://nesgentdesign.github.io/Static/hello-world/</link>
+	<atom:link href="https://https://nesgentdesign.github.io/Static/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://nesgentdesign.github.io/Static/hello-world/</link>
 	<description>WordPress Agency</description>
 	<lastBuildDate>Sun, 31 Jul 2022 07:29:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://https://nesgentdesign.github.io/Static/hello-world/#comment-1</link>
+		<link>https://https://nesgentdesign.github.io/Static/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 31 Jul 2022 07:29:58 +0000</pubDate>
-		<guid isPermaLink="false">http://https://nesgentdesign.github.io/Static/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://https://nesgentdesign.github.io/Static/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
